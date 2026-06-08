@@ -1,5 +1,3 @@
-Here is an HTML document that creates a turn-based battle game where you control Ratu against an enemy, complete with attack, heal, and restart buttons.
-```html
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -601,4 +599,3 @@ Here is an HTML document that creates a turn-based battle game where you control
 </script>
 </body>
 </html>
-```
